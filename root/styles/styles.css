@@ -59,7 +59,7 @@ grid-area: footer;
     border:solid 0.2rem #1f211f;
     text-decoration: solid#1f211f ;
     background-color: #dfe6ac ;
- background-image: linear-gradient(30deg,#dfe6ac , #67702d);
+ background-image: linear-gradient(45deg,#dfe6ac , #67702d);
  
 }
 .menu li :hover{
@@ -93,7 +93,7 @@ grid-area: footer;
             }
 
             .galeria img:hover{
-            scale: 1.1  1.1;
+            scale: 1.05  1.05;
 
 
             }
@@ -207,7 +207,7 @@ font-size: 16px;
     height:400px;
 }
 .productos img:hover{
-    scale: 1.1  1.1;
+    scale: 1.05  1.05;
 
 
     }
